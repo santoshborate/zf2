@@ -1,0 +1,17 @@
+{
+    "name": "santoshborate/zf2",
+    "description": "Skeleton Application for ZF2",
+    "license": "BSD-3-Clause",
+    "keywords": [
+        "framework",
+        "zf2"
+    ],
+    "homepage": "http://framework.zend.com/",
+    "require": {
+        "php": ">=5.5",
+        "zendframework/zendframework": "~2.5"
+    },
+    "scripts": {
+        "serve": "php -S 0.0.0.0:8081 -t public"
+    }
+}
